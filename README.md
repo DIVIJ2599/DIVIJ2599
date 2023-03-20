@@ -14,6 +14,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1M_YhVo3wohnzoas67ZNG3Fx8lvxAN2W4/view](https://drive.google.com/file/d/1M_YhVo3wohnzoas67ZNG3Fx8lvxAN2W4/view)
 
+- Checkout my portfolio [https://divijsehgal.live]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/divij2599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="divij2599" height="30" width="40" /></a>

@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1M_YhVo3wohnzoas67ZNG3Fx8lvxAN2W4/view](https://drive.google.com/file/d/1M_YhVo3wohnzoas67ZNG3Fx8lvxAN2W4/view)
 
-- Checkout my portfolio [https://divijsehgal.live]
+- More about [me](https://divijsehgal.live)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
